@@ -6,3 +6,8 @@
     - cansat_sd.hpp
     - cansat_sd.cpp
 
+**方位角計算ライブラリ**
+- azmuthLibrary
+    -  azmuthLibrary.ino
+    -  azmuthLibrary.hpp
+    -  azmuthLibrary.cpp
